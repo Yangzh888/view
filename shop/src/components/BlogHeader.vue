@@ -15,7 +15,7 @@
         <span>王小虎</span>
       </el-col>
     </el-header>
-    <el-container>
+    </el-container>
     </div>
 </template>
 
